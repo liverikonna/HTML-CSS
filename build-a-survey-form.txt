@@ -1,0 +1,33 @@
+** start of undefined **
+
+<html>
+  <body>
+    <h1 id="title">Attempt to make a survey
+      <!--What am I doing at midnight?-->
+      <p id="description">fill the following gaps for research purposes
+        <form id="survey-form">
+          <input id="name" type="text" required placeholder="name-surname">name <label id="name-label">
+          <input id="email" type="email" required placeholder="email"> email <label id="email-label">
+          <input id="number" type="number" placeholder="numeric" min="0" max="100">age <label id="number-label">
+             <label for="gender">Your gender:</label>
+ <select name="gender" id="dropdown">
+  <option value="male">Male</option>
+  <option value="female">Female</option>
+  <option value="non-binary">non-binary</option>
+</select> 
+              <input type="radio" name="vegan" value="not-necessary">vegan
+              <input type="radio" name="vegan" value="not-necessary">non vegan
+              <input type="checkbox" value="required">I agree to the editing of the given data
+              <input type="checkbox" value="not-necessary">I want to be signed up on the newspaper to find out about new products
+            <textarea> additional comments</textarea>
+          <button id="submit">
+<link rel="stylesheet" href="styles.css">
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
+

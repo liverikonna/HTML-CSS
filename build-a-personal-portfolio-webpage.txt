@@ -1,0 +1,53 @@
+** start of undefined **
+
+<html>
+  <body> 
+    <section id="welcome-section">
+      <h1>Konstantina Liveri</h1>
+      <h2><em> a biologist </em></h2>
+      </section>
+      <section id="projects">
+        <nav id="navbar"class="project-tile">
+          <a href="#About-me">About me</a>
+          <a href="#links">links</a>
+          </nav>
+          </section>
+          <section>About me
+            <p> Biology student, currently learning beginners programming with HTML/CSS. Heavily interested into the bioinformatics field. Also author of the poetry collection <em>Synastries</em>. </p>
+          <section> links
+          <br><a href="https://www.freecodecamp.org/konstantina-liveri"  id="profile-link" target="_blank"> View my freecodecamp profile </a>
+           <br><a href="https://github.com/liverikonna" id="profile-link" target="_blank">Github</a>
+           </section>
+  </body>
+</html>
+        <link rel="stylesheet" href="styles.css">
+
+** end of undefined **
+
+** start of undefined **
+
+
+@media only screen and (max-width: 450px){
+body{
+background-color: #6C094B;
+}
+}
+body {
+  color:white;
+}
+
+h1 {
+  color:white;
+}
+h1{background-color:black}
+h2{background-color:black}
+a {color:white}
+nav {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+** end of undefined **
+

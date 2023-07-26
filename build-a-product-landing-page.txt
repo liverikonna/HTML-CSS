@@ -1,0 +1,60 @@
+** start of undefined **
+
+<html>
+    <head>
+      <title>SHOP NOW </title>
+      </head>
+      <body>
+    <header id="header"><strong size="26">DEHYDRATED WATER</strong>
+      <img src="https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3dhdGVyLXVwZGF0ZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH19fQ==" id="header-img"> 
+      <nav id="nav-bar">
+      <a href="#Product-Info" class="nav-link"> Product Info </a>
+        <a href="#Subscribe-to-find-out-more" class="nav-link"> Subscribe to find out more </a>
+          <a href="#Media" class="nav-link"> Media </a>
+            </nav>
+            </header>
+            <section>
+<h2 id="Product-Info"> Product Info </h2>
+<media max-width="1250px">
+  <p> Dehydrated water was produced in 2022 by a scientist called Mary Palm. It was then wildy loved by the audience for it's essential qualities. </p>
+  <p> <br> Do you want to point out to someone <strong> HOW MUCH </strong> he contributes to your life? </p>
+  <p> Now it's the time to buy him his most deserving gift- dehydrated water</p>
+   <div class="container">
+  <div>made in Greece</div>
+  <div>from pure ingredients</div>
+  <div>ecological package</div>
+</div> 
+  </section>
+  <!--A FLEXBOX here -->
+<section>
+<h2 id="Subscribe-to-find-out-more"> Subscribe to find out more </h2>
+  <p id="description">fill the following gaps for research purposes
+        <form id="form" action="https://www.freecodecamp.com/email-submit">
+          <input id="name" type="text" required placeholder="name-surname">name <label id="name-label">
+          <input id="email" type="email" required placeholder="email" name="email"> email <label id="email-label">
+          <input id="submit" type="submit">
+            </section>
+            <section>
+<h2 id="Media"> Media </h2>
+  <video id="video" src="https://www.youtube.com/watch?v=HpIRdElOt_8&list=RDEMYGj5tu94_mNz6SrYkDD3_g&index=3" alt="video-not-found">
+  </section>
+  </body>
+</html>
+<link rel="stylesheet" href="styles.css">
+
+** end of undefined **
+
+** start of undefined **
+
+@media only screen and (max-width: 450px){
+body {
+background-color: beige;}
+nav-bar {position: fixed; 
+top: 0px;
+width: 100%}
+.container {
+  display: flex;
+}
+
+** end of undefined **
+
